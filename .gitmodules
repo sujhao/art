@@ -1,0 +1,3 @@
+[submodule "node-imagemin"]
+	path = node-imagemin
+	url = git@gitee.com:jhao-tool/node-imagemin.git

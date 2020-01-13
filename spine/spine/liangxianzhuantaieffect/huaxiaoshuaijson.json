@@ -1,0 +1,424 @@
+{
+"skeleton": {
+	"hash": "MicesRmdUT9qh7+eI5GsNqkqF+k",
+	"spine": "3.8.79",
+	"x": 313.96,
+	"y": 569.99,
+	"width": 654.78,
+	"height": 81.25,
+	"images": "",
+	"audio": "F:/前期动画组资源/跨部门资源/游戏交互/连线/images"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "zhuantai_00000", "parent": "root", "x": 354.07, "y": 604.36, "scaleX": 0.9196, "scaleY": 0.6886 }
+],
+"slots": [
+	{ "name": "zhuantai_00000", "bone": "zhuantai_00000", "attachment": "zhuantai_00000", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"zhuantai_00000": {
+				"zhuantai_00000": { "x": 312.39, "y": 9.09, "width": 712, "height": 118 }
+			}
+		}
+	}
+],
+"animations": {
+	"L2lianx1_1": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 0.47 }
+				],
+				"translate": [
+					{ "y": -103.72 }
+				]
+			}
+		}
+	},
+	"L2lianx1_2": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": -23.81 }
+				],
+				"translate": [
+					{ "y": -99.07 }
+				],
+				"scale": [
+					{ "x": 1.092, "y": 0.977 }
+				]
+			}
+		}
+	},
+	"L2lianx2_1": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 22.99 }
+				],
+				"translate": [
+					{ "y": -348.59 }
+				],
+				"scale": [
+					{ "x": 1.089 }
+				]
+			}
+		}
+	},
+	"L2lianx2_2": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 0.42 }
+				],
+				"translate": [
+					{ "y": -350.26 }
+				]
+			}
+		}
+	},
+	"L3lianx1_1": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 0.29 }
+				],
+				"translate": [
+					{}
+				],
+				"scale": [
+					{}
+				],
+				"shear": [
+					{}
+				]
+			}
+		}
+	},
+	"L3lianx1_2": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": -16.73 }
+				],
+				"scale": [
+					{ "x": 1.047 }
+				]
+			}
+		}
+	},
+	"L3lianx1_3": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": -32.19 }
+				],
+				"scale": [
+					{ "x": 1.176 }
+				]
+			}
+		}
+	},
+	"L3lianx2_1": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 16.74 }
+				],
+				"translate": [
+					{ "y": -172.53 }
+				],
+				"scale": [
+					{ "x": 1.045 }
+				]
+			}
+		}
+	},
+	"L3lianx2_2": {
+		"bones": {
+			"zhuantai_00000": {
+				"translate": [
+					{ "y": -176.11 }
+				]
+			}
+		}
+	},
+	"L3lianx2_3": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": -16.89 }
+				],
+				"translate": [
+					{ "y": -181.5 }
+				],
+				"scale": [
+					{ "x": 1.044 }
+				]
+			}
+		}
+	},
+	"L3lianx3_1": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 31.86 }
+				],
+				"translate": [
+					{ "y": -363.71 }
+				],
+				"scale": [
+					{ "x": 1.183 }
+				]
+			}
+		}
+	},
+	"L3lianx3_2": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 17.59 }
+				],
+				"translate": [
+					{ "y": -359.14 }
+				],
+				"scale": [
+					{ "x": 1.048 }
+				]
+			}
+		}
+	},
+	"L3lianx3_3": {
+		"bones": {
+			"zhuantai_00000": {
+				"translate": [
+					{ "y": -359.14 }
+				]
+			}
+		}
+	},
+	"L4lianx1_1": {
+		"bones": {
+			"zhuantai_00000": {
+				"translate": [
+					{ "x": 6.31, "y": 1.14 }
+				],
+				"scale": [
+					{ "x": 0.986 }
+				]
+			}
+		}
+	},
+	"L4lianx1_2": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": -15.7 }
+				],
+				"scale": [
+					{ "x": 1.045 }
+				]
+			}
+		}
+	},
+	"L4lianx1_3": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": -30.4 }
+				],
+				"scale": [
+					{ "x": 1.161 }
+				]
+			}
+		}
+	},
+	"L4lianx1_4": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": -40.76 }
+				],
+				"scale": [
+					{ "x": 1.323 }
+				]
+			}
+		}
+	},
+	"L4lianx2_1": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 16.59 }
+				],
+				"translate": [
+					{ "y": -163.91 }
+				],
+				"scale": [
+					{ "x": 1.042 }
+				]
+			}
+		}
+	},
+	"L4lianx2_2": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 0.45 }
+				],
+				"translate": [
+					{ "y": -171.95 }
+				]
+			}
+		}
+	},
+	"L4lianx2_3": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": -15.76 }
+				],
+				"translate": [
+					{ "y": -169.93 }
+				],
+				"scale": [
+					{ "x": 1.039 }
+				]
+			}
+		}
+	},
+	"L4lianx2_4": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": -29.12 }
+				],
+				"translate": [
+					{ "y": -173.98 }
+				],
+				"scale": [
+					{ "x": 1.15 }
+				]
+			}
+		}
+	},
+	"L4lianx3_1": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 30.68 }
+				],
+				"translate": [
+					{ "y": -337.74 }
+				],
+				"scale": [
+					{ "x": 1.171 }
+				]
+			}
+		}
+	},
+	"L4lianx3_2": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 16.45 }
+				],
+				"translate": [
+					{ "y": -336.13 }
+				],
+				"scale": [
+					{ "x": 1.049 }
+				]
+			}
+		}
+	},
+	"L4lianx3_3": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 0.91 }
+				],
+				"translate": [
+					{ "y": -337.74 }
+				]
+			}
+		}
+	},
+	"L4lianx3_4": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": -16.11 }
+				],
+				"translate": [
+					{ "y": -337.74 }
+				],
+				"scale": [
+					{ "x": 1.047 }
+				]
+			}
+		}
+	},
+	"L4lianx4_1": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 41.69 }
+				],
+				"translate": [
+					{ "y": -512.27 }
+				],
+				"scale": [
+					{ "x": 1.336 }
+				]
+			}
+		}
+	},
+	"L4lianx4_2": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 31.09 }
+				],
+				"translate": [
+					{ "y": -512.27 }
+				],
+				"scale": [
+					{ "x": 1.177 }
+				]
+			}
+		}
+	},
+	"L4lianx4_3": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 17.24 }
+				],
+				"translate": [
+					{ "y": -509.04 }
+				],
+				"scale": [
+					{ "x": 1.052, "y": 1.091 }
+				]
+			}
+		}
+	},
+	"L4lianx4_4": {
+		"bones": {
+			"zhuantai_00000": {
+				"rotate": [
+					{ "angle": 0.61 }
+				],
+				"translate": [
+					{ "y": -512.27 }
+				]
+			}
+		}
+	}
+}
+}
